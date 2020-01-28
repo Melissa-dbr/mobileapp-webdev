@@ -1,0 +1,31 @@
+body {
+    margin: 5vh;
+    font-family: 'Roboto Mono', monospace;
+    background-color: #FFE5E5;
+}
+
+img {
+    width: 50vh;
+    height: auto;
+    float: left;
+    margin-left: 5vh;
+    margin-bottom: 5vh;
+    margin-right: 5vh;
+}
+
+section {
+    clear: left;
+}
+
+p {
+    color: #474747;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 5vh;
+}
+
+h2 {
+    text-align: center;
+}
