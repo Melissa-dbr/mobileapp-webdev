@@ -5,8 +5,8 @@ body {
 }
 
 img {
-    width: 10vh;
-    height: auto;
+    width: auto;
+    height: 10vh;
     float: left;
     margin-left: 5vh;
     margin-bottom: 5vh;
